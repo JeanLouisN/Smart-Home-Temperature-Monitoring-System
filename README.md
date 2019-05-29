@@ -1,1 +1,1 @@
-# Smart-Home-Temperature-Monitoring-System is a good automatized IoT solution to control the home temperature, if the temperature is greater than the defined threshold the system automatically turns on the cooling fun
+# Smart-Home-Temperature-Monitoring-System is a good automatized IoT solution to control the home temperature, as the home temperature increases the fan blows faster or rotates at higher speed in order to regulate the temperature or avoid any negative impact which can rise due to warmth
